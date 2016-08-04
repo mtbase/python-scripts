@@ -6,7 +6,7 @@ of the [MTBase project](https://github.com/mtbase/overview).
 In order to run the scripts, you have to make sure that
  * you have installed [PyMySQL](https://github.com/PyMySQL/PyMySQL) and
    [PG8000](https://github.com/mfenniak/pg8000).
- * you have installed [MT-Rewite](https://github.com/lucasbraun/mt-rewrite).
+ * you have installed [MT-Rewite](https://github.com/mtbase/mt-rewrite).
  * you have populated your database with the [SQL
    scripts](https://github.com/mtbase/sql-scripts)
  * you have configured Config.py
